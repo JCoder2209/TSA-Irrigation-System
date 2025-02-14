@@ -1,4 +1,4 @@
-import data_preprocessing as dp  # handles all the messy data stuff
+import data_preprocessing as dp  # handles all data organization stuff
 import model_training as mt
 import agri_utils as au  # our utility functions
 import numpy as np
